@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<configuration>
+	<user-agent>
+		<product>Mozilla</product>
+		<product-version>5.0</product-version>
+		<comment>(X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41</comment>
+	</user-agent>
+	<number-threads>20</number-threads>
+	<urls>
+		<url>google.com</url>
+		<url>example.com</url>
+		<url>localhost</url>
+		<url>google.com</url>
+		<url>example.com</url>
+		<url>localhost</url>
+		<url>google.com</url>
+		<url>example.com</url>
+		<url>localhost</url>
+		<url>google.com</url>
+		<url>example.com</url>
+		<url>localhost</url>
+	</urls>
+	<dir-path></dir-path>
+</configuration>
